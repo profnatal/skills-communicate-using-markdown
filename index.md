@@ -32,3 +32,20 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Etapa 4: Faça uma lista de tarefas
+
+## Exemplo
+#### - [x] List syntax is required
+#### - [x] This item is complete
+#### - [ ] This item is not complete
+
+## Como parece
+#### A sintaxe da lista é necessária
+#### Este item está completo
+#### Este item não está completo
+
+## Tarefa:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
